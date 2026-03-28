@@ -91,3 +91,6 @@ The implementation guarantees **bijectivity** within floating-point precision li
 
 ## 📄 License
 This exercise is provided for scientific education and verification purposes, and is under MIT LICENCE © 2026.
+
+## TODO
+- [ ] Implement GPS coordinates automation from a collection of cities' GPS in JSON. Just name the city, the latitude-longitude are loaded automatically, Riemann Sphere is computed automatically.
